@@ -19,7 +19,7 @@
     </properties>
 
     <dependencies>
-        <!-- 1) Add the correct spring dependencies -->
+        <!-- Step 1 Add the correct spring dependencies -->
 
         <!-- Other spring dependencies <-->
         <dependency>
